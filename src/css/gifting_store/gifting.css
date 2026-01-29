@@ -1,0 +1,29 @@
+.gift-i-1 {
+  width: 100%;
+  height: 100%;
+}
+
+.gift-i {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-position: center;
+  object-fit: cover;
+}
+
+.gift-t-1 {
+    padding: 4rem;
+    text-align: center;
+}
+
+.gift-t-1 p{
+    font-size: 2.2rem;
+    font-weight: 300;
+    letter-spacing: -1px;
+}
+
+.gift-t-1 h1 {
+    font-size: 4rem;
+    font-weight: 600;
+}
+

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "url" : "/banner-1.webp"
+  },
+  {
+    "id":2,
+    "url" : "/banner-2.webp"
+  },
+  {
+    "id": 3,
+    "url" : "/banner-3.webp"
+  }
+]

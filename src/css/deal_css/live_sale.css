@@ -1,0 +1,148 @@
+.sale-container {
+  margin: 4rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.link-bar {
+  text-decoration: none;
+}
+
+.sale-h {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sale-h h1 {
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #1a2024;
+}
+
+.sale-h p {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #2F5B96;
+}
+
+.sale-l {
+  color: #1a2024;
+  font-weight: 600;
+  font-size: 1.5rem;
+  position: relative;
+  display: inline-block;
+}
+
+.sale-l::after {
+  content: "";
+  position: absolute;
+  background-color: #e91c24;
+  border-radius: 1px;
+  height: 0.2rem;
+  width: 30%;
+  right: 0;
+  bottom: 0;
+}
+
+.sale-items {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.6rem;
+}
+
+.sale-details {
+  list-style: none;
+  box-shadow: 0 4px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.sale-i {
+  display: flex;
+  flex-direction: column;
+}
+
+.sale-i img {
+  border: none;
+  width: 100%;
+  height: 220px;
+  border-radius: 10px 10px 0 0;
+}
+
+.sale-img-s {
+  position: relative;
+  padding: 0.5rem 0.8rem;
+  background-color: #fcc50b;
+  border-radius: 0 0 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sale-r {
+  background-color: #fff;
+  border-radius: 2px;
+  font-size: 0.7rem;
+  padding: 0.1rem 0.5rem;
+  color: #1a2024;
+}
+
+.sale-pb {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: #1a2024;
+}
+
+.sale-c {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  background-color: #fafafa;
+}
+
+.sale-s {
+  padding: 0.8rem;
+}
+
+.sale-t p {
+  color: #000;
+  font-weight: 700;
+  font-size: 0.9rem;
+  max-width: 220px;
+  height: 35px;
+  line-height: 1.3;
+}
+
+.sale-p p {
+  color: #1a2024;
+  font-weight: 700;
+  font-size: 1.4rem;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.sale-o {
+  display: flex;
+  gap: 0.3rem;
+  align-items: center;
+}
+
+.sale-op {
+  font-size: 0.9rem;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 600;
+  text-decoration: line-through;
+  color: #848484;
+}
+
+.sale-np {
+  color: #12b985;
+  font-weight: 700;
+  font-size: 0.8rem;
+}
+
+.explore-img img {
+  width: 100%;
+  border-radius: 10px;
+}

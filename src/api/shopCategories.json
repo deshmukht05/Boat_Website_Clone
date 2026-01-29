@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 1,
+        "url" : "//www.boat-lifestyle.com/cdn/shop/files/best_seller_small.svg?v=1748341370",
+        "title" : "Best Sellers"
+    },
+    {
+        "id" : 2,
+        "url" : "//www.boat-lifestyle.com/cdn/shop/files/tws_aa22d83e-8823-4d76-91e9-e75fd34fb51d_small.png?v=1748428298",
+        "title" : "True Wireless Earbuds"
+    },
+    {
+        "id" : 3,
+        "url" : "//www.boat-lifestyle.com/cdn/shop/files/WH_b225905d-9064-4f64-9772-07fbcc521f0f_small.png?v=1748428298",
+        "title" : "Wireless Headphones"
+    },
+    {
+        "id" : 4,
+        "url" : "//www.boat-lifestyle.com/cdn/shop/files/neckband_660318e8-a68d-4572-bf8f-359f22319765_small.png?v=1748428772",
+        "title" : "Neckbands"
+    },
+    {
+        "id" : 5,
+        "url" : "//www.boat-lifestyle.com/cdn/shop/files/smartwatch_4b47c9df-5ea9-4149-9cf8-ff5a9c8f5cc1_small.png?v=1748428298",
+        "title" : "Smart Watches"
+    },
+    {
+        "id" : 6,
+        "url" : "//www.boat-lifestyle.com/cdn/shop/files/WS_small.png?v=1748428298",
+        "title" : "Wireless Speakers"
+    },
+    {
+        "id" : 7,
+        "url" : "//www.boat-lifestyle.com/cdn/shop/files/LA_small.png?v=1748428298",
+        "title" : "Soundbars"
+    },
+    {
+        "id" : 8,
+        "url" : "//www.boat-lifestyle.com/cdn/shop/files/PS_small.png?v=1748428298",
+        "title" : "Party Speakers"
+    }
+]

@@ -1,0 +1,48 @@
+.corp-section-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+    background-color: #f5fafd;
+}
+
+.cor-img img{
+    width: 100%;
+    overflow: hidden;
+}
+
+.cor-title {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+}
+
+.cor-title h1 {
+    color: #232323;
+    font-size: 4.2rem;
+    font-weight: 700;
+}
+
+.festive {
+    font-size: 1.9rem;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.ex-festive {
+    font-size: 1.4rem;
+    color: #1A2024;
+    font-weight: 500;
+}
+
+.cor-title button {
+    margin-top: 2rem;
+    width: fit-content;
+    border: none;
+    background-color: #232323;
+    color: #ffffff;
+    font-size: 1.2rem;
+    padding: 0.8rem 6rem;
+    border-radius: 10px;
+    cursor: pointer;
+}

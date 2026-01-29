@@ -1,0 +1,31 @@
+.shop-category {
+    margin: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.shop-h h1 {
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #1a2024;
+}
+
+.shop-l {
+  color: #1a2024;
+  font-weight: 600;
+  font-size: 1.5rem;
+  position: relative;
+  display: inline-block;
+}
+
+.shop-l::after {
+  content: "";
+  position: absolute;
+  background-color: #e91c24;
+  border-radius: 1px;
+  height: 0.2rem;
+  width: 30%;
+  right: 0;
+  bottom: 0;
+}

@@ -1,0 +1,143 @@
+.pers-items {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  margin: 2rem;
+}
+
+.pers-main-container {
+  margin: 1rem;
+}
+
+.pers-container {
+  border: 1px solid #f1f1f1;
+  background-color: #fafafa;
+  border-radius: 10px;
+  display: flex;
+  list-style: none;
+  padding-bottom: 0.5rem;
+}
+
+.pers-left {
+  display: flex;
+  flex-direction: column;
+  margin: 0.2rem;
+}
+
+.pers-left img {
+  border: none;
+  width: 160px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 10px 10px 0 0;
+}
+
+.pers-img-s {
+  position: relative;
+  padding: 0.5rem 0.8rem;
+  background-color: #fcc50b;
+  border-radius: 0 0 10px 10px;
+}
+
+.pers-img-s p {
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+.pers-right {
+  margin: 0.2rem 0.8rem;
+  width: 100%;
+}
+
+.rating-title {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.rating {
+  display: flex;
+  gap: 0.2rem;
+}
+
+.rating p {
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.title p {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.title-price {
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+}
+
+.price-offer {
+  display: flex;
+  gap: 0.2rem;
+  word-spacing: 0.1rem;
+}
+
+.price-offer p {
+  font-size: 1.1rem;
+  font-weight: 800;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.pers-op {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  text-decoration: line-through;
+  color: #848484;
+  font-size: 0.9rem;
+}
+
+.pers-offer {
+  font-family: "Noto Sans", sans-serif;
+  color: #12b985;
+  font-weight: 700;
+  font-size: 0.8rem;
+}
+
+hr {
+  margin: 0.5rem 0;
+  width: 100%;
+  color: #848484;
+}
+
+.pers-features {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.pers-features p {
+  font-size: 0.65rem;
+  background-color: #eff4f7;
+  padding: 0.1rem 0.3rem;
+  font-weight: 300;
+  border-radius: 1px;
+}
+
+.product-btn {
+  width: 100%;
+  margin: 0.5rem 0;
+}
+
+.product-btn button {
+  font-family: "Noto Sans", sans-serif;
+  width: 100%;
+  background-color: #1a2024;
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 400;
+  border: none;
+  border-radius: 10px;
+  padding: 0.5rem;
+  cursor: pointer;
+}

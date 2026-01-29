@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "boAt Airdopes Alpha",
+    "category": "live_sale",
+    "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Alpha_new_colors.png?v=1747634146&width=400",
+    "play_back" : "35 Hours Playback",
+    "rating" : "⭐4.9",
+    "price": "₹999",
+    "old_price" : "₹3,940",
+    "offer": "75% off"
+  },
+  {
+    "id": 2,
+    "title": "boAt Stone 350 Pro",
+    "category": "live_sale",
+    "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_350_pro_1.png?v=1742303499&width=400",
+    "play_back" : "12 Hours Playback",
+    "rating" : "⭐4.8",
+    "price": "₹1,899",
+    "old_price" : "₹4,990",
+    "offer": "62% off"
+  },
+  {
+    "id": 3,
+    "title": "boAt Nirvana Zenith Pro",
+    "category": "live_sale",
+    "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/zenith_pro_LR.png?v=1751544158&width=400",
+    "play_back" : "80 Hours Playback",
+    "rating" : "⭐4.6",
+    "price": "₹2,999",
+    "old_price" : "₹14,990",
+    "offer": "80% off"
+  },
+  {
+    "id": 4,
+    "title": "boAt Lunar Discovery",
+    "category": "live_sale",
+    "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lifestyle_render_154400cd-4bd3-4dd8-9c4a-e56f27910199.jpg?v=1729580370&width=400",
+    "play_back" : "BT Calling",
+    "rating" : "⭐5.0",
+    "price": "₹1,499",
+    "old_price" : "₹8,499",
+    "offer": "80% off"
+  },
+  {
+    "id": 5,
+    "title": "boAt Rockerz 255 Pro+",
+    "category": "live_sale",
+    "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/r255pro_55d805bc-f2e1-4861-9533-8eee57081305.jpg?v=1682573437&width=400",
+    "play_back" : "60 Hours Playback",
+    "rating" : "⭐4.8",
+    "price": "₹1,299",
+    "old_price" : "₹3,990",
+    "offer": "67% off"
+  },
+  {
+    "id": 6,
+    "title": "boAt EnergyShroom PB300 Pro",
+    "category": "live_sale",
+    "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/300_bLACK-min.png?v=1725983268&width=400",
+    "play_back" : "10000mAh Battery",
+    "rating" : "⭐5.0",
+    "price": "₹1,399",
+    "old_price" : "₹3,499",
+    "offer": "60% off"
+  }
+]
