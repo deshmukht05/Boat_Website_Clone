@@ -1,7 +1,7 @@
 import "../css/corporate_orders/shop_categories.css";
 import categories from "../api/shopCategories.json";
 import { CategoriesCards } from "./CategoriesCards";
-import { BigDeals } from "./bigDeals";
+import { BigDeals } from "./BigDeals";
 
 export const ShopCategories = () => {
   return (
