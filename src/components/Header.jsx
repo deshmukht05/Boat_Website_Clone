@@ -18,7 +18,7 @@ export const Header = () => {
             <NavLink to="/">
               <img
                 className="logo-i"
-                src="/src/assets/boat_logo.svg"
+                src="assets/boat_logo.svg"
                 alt="boAt Logo"
               />
             </NavLink>
@@ -29,7 +29,7 @@ export const Header = () => {
             className="mobile-menu-btn"
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
           >
-            <img src="/src/assets/menu.svg" alt="Menu" width="24" height="24" />
+            <img src="menu.svg" alt="Menu" width="24" height="24" />
           </button>
 
           <div className={`header-c ${isMobileMenuOpen ? "active" : ""}`}>
@@ -82,7 +82,7 @@ export const Header = () => {
           <div className="header-search">
             <img
               className="header-i"
-              src="/src/assets/search.png"
+              src="assets/search.png"
               alt="Search"
             />
             <input type="text" placeholder="Search Headphones" />
@@ -92,7 +92,7 @@ export const Header = () => {
             <NavLink to="/profile">
               <img
                 className="profile-i"
-                src="/src/assets/people.png"
+                src="assets/people.png"
                 alt="Profile"
               />
             </NavLink>
@@ -100,7 +100,7 @@ export const Header = () => {
 
           <div className="cart">
             <NavLink to="/cart">
-              <img className="cart-i" src="/src/assets/bag.png" alt="Cart" />
+              <img className="cart-i" src="assets/bag.png" alt="Cart" />
             </NavLink>
           </div>
         </div>

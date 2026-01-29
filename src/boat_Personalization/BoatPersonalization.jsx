@@ -10,14 +10,14 @@ export const BoatPersonalization = () => {
       <div className="f-s-btn">
         <div className="filter-btn">
           <button>
-            <img src="/src/assets/filter.png" alt="" />
+            <img src="assets/filter.png" alt="" />
             Filter By ▼
           </button>
         </div>
 
         <div className="filter-btn">
           <button>
-            <img src="/src/assets/sorting.png" alt="" />
+            <img src="assets/sorting.png" alt="" />
             Sort By: <span>Featured</span>
           </button>
         </div>
